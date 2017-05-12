@@ -7,7 +7,9 @@ body {
 ol, ul {
   padding-left: 30px;
 }
-
+.reset{
+  margin-top: 20px;
+}
 .board-row:after {
   clear: both;
   content: "";
